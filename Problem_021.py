@@ -1,4 +1,6 @@
-#Amicable numbers
+# Euler Problem 021
+# Completed 19 January 2021
+
 n = 9999 #less than 10000
 sumdivs = [] #sums of each numbers divisors
 for i in range(0,n+1): #list of numbers 1-9,999
